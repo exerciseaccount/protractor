@@ -43,7 +43,7 @@ const glob = {
     deleteButton: "Delete",
     confirmDeleteCss: "[ng-click='submit()']",
     rowFirstItem: "p[class='story ng-binding']",
-    firstItemDesc: "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
+    firstItemDesc: "Will sends messages through the lights",
     deleteModalCss: "h3[class='modal-title']",
     lastMediaObject: "img[class='media-object img-responsive img-rounded']"
 }

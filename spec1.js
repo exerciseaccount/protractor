@@ -10,6 +10,7 @@ describe('angularjs homepage todo list', function() {
         console.log("A new test begins");
     })
 
+    //Trying to see if the save functionality works
     it('Upload Image', function() {
         browser.get(glob.mainUrl);
         func.uploadImage();
